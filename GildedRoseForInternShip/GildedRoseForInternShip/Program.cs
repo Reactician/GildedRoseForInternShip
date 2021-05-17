@@ -51,6 +51,7 @@ namespace csharp
                 app.UpdateQuality();
             }
             Console.ReadLine();
+            //used this so the program would not quit after doing tasks
         }
     }
 }
